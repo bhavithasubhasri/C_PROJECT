@@ -1,0 +1,1 @@
+This C program manages supermarket billing and inventory using file handling. Admins can add, update, remove, and view stock, while customers can search products, purchase items, and receive bills. It updates stock after transactions, ensuring accurate billing and efficient inventory control through a structured, menu-driven interface.
